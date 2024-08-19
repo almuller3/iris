@@ -48,3 +48,7 @@ This project demonstrates how to train a machine learning model using the Iris d
 The project trains a simple RandomForest model on the Iris dataset to classify flowers into three species. The trained model is then exposed through a Flask API that accepts POST requests with input features and returns the predicted class.
 
 The API is a basic example of how machine learning models can be deployed in production and accessed via HTTP requests.
+
+
+## Tested
+Successfully tested in Colab.
